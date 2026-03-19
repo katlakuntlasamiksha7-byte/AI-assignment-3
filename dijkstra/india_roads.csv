@@ -1,0 +1,16 @@
+source,destination,distance
+Delhi,Mumbai,1400
+Delhi,Kolkata,1500
+Delhi,Jaipur,300
+Jaipur,Mumbai,1100
+Mumbai,Pune,150
+Pune,Bangalore,840
+Bangalore,Chennai,350
+Chennai,Hyderabad,630
+Hyderabad,Delhi,1500
+Hyderabad,Bangalore,600
+Kolkata,Chennai,1650
+Kolkata,Hyderabad,1500
+Mumbai,Hyderabad,700
+Jaipur,Delhi,300
+Pune,Hyderabad,560
